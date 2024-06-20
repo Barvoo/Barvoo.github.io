@@ -1,5 +1,5 @@
 body {
-    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; /* Cambiar la fuente a Segoe UI o similar */
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif; 
     margin: 0;
     padding: 0;
 }
@@ -58,7 +58,7 @@ nav ul li a {
 }
 
 .section-content {
-    max-width: 100%; /* Ajustar según sea necesario */
+    max-width: 100%;
 }
 
 .image-container {
@@ -88,7 +88,7 @@ footer {
     }
     
     .section-content {
-        max-width: 60%; /* Ajustar según sea necesario */
+        max-width: 60%;
         margin-right: 1rem;
     }
 }
